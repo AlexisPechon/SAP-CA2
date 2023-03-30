@@ -1,8 +1,7 @@
 # SAP-CA2
 
 ```
-###### H6
-The following code will create the docker network:
+###### The following code will create the docker network:
 docker network create mysql-network
 
 docker run -d -p 3306:3306 \
